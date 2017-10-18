@@ -211,7 +211,7 @@ tile.Transmitter.EliteThermodynamicConductor.name=Profesjonalny przewodnik termo
 tile.Transmitter.UltimateThermodynamicConductor.name=Najlepszy przewodnik termodynamiczny
 
 //Glow Panel
-item.GlowPanel.name=panel świetlny
+tile.GlowPanel.name=panel świetlny
 
 //Energy Cubes
 tile.EnergyCubeBasic.name=Podstawowa bateria kondensac.
